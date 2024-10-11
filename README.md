@@ -48,6 +48,7 @@ Packages for Umbraco 14 and 15, are eligible by default, even if the equivalent 
 Contributions:
 
 <!-- Add your new / modern Umbraco package here-->
+- 2024-10-11 - Søren Kottal - New package - Schemex [Exporter](https://marketplace.umbraco.com/package/umbraco.community.schemex.exporter) / [Importer](https://marketplace.umbraco.com/package/umbraco.community.schemex.importer)
 
 ## Sponsor a GitHub repo
 
